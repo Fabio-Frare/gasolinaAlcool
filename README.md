@@ -1,5 +1,5 @@
 
-![Ionic](slim.png)
+![Ionic](src/assets/Logo_ionic.png)
 
 # Etanol ou Gasolina?
 
@@ -12,4 +12,4 @@ Jorge Sant Ana e Jamilton Damasceno
 
 Desenvolvimento de um aplicativo mobile utilizando Ionic com Angular. 
 
-![Aplicativo](slim.png) 
+![Aplicativo](src/assets/App1.png) 
